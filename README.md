@@ -9,8 +9,7 @@ A modern sustainable commuting platform featuring smart routing, green points, c
 
 <p align="center">
   <!-- Shields -->
-  <img src="https://img.shields.io/github/languages/top/DhawalThombare37/EcoRides?color=green&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/DhawalThombare37/EcoRides?color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/DhawalThombare37/Eco-Rides?color=green&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Supabase-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
@@ -100,7 +99,8 @@ EcoRides/
 # 🖼 **Screenshots**
 
 <p align="center">
-  <img src="./assets/screenshots/home.png" width="80%" />
+  <img width="1349" height="503" alt="Screenshot 2025-12-09 233204" src="https://github.com/user-attachments/assets/a35543f2-a27f-42d3-8845-6a50dc187a38" />
+
 </p>
 
 ---
@@ -137,7 +137,7 @@ If this project inspired you, helped your development, or simply looks cool —
 **drop a star ⭐ on the repo. It really helps!**
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DhawalThombare37/EcoRides?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/stars/DhawalThombare37/Eco-Rides?style=for-the-badge&color=yellow" />
 </p>
 
 Thanks for supporting open-source eco-tech! 💚
