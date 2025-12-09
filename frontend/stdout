@@ -1,0 +1,16 @@
+0000	69 6d 70 6f 72 74 20 52  65 61 63 74 20 66 72 6f   import React fro
+0010	6d 20 27 72 65 61 63 74  27 0a 69 6d 70 6f 72 74   m 'react'.import
+0020	20 52 65 61 63 74 44 4f  4d 20 66 72 6f 6d 20 27    ReactDOM from '
+0030	72 65 61 63 74 2d 64 6f  6d 2f 63 6c 69 65 6e 74   react-dom/client
+0040	27 0a 69 6d 70 6f 72 74  20 41 70 70 20 66 72 6f   '.import App fro
+0050	6d 20 27 2e 2f 41 70 70  27 0a 69 6d 70 6f 72 74   m './App'.import
+0060	20 27 2e 2f 69 6e 64 65  78 2e 63 73 73 27 0a 0a    './index.css'..
+0070	52 65 61 63 74 44 4f 4d  2e 63 72 65 61 74 65 52   ReactDOM.createR
+0080	6f 6f 74 28 64 6f 63 75  6d 65 6e 74 2e 67 65 74   oot(document.get
+0090	45 6c 65 6d 65 6e 74 42  79 49 64 28 27 72 6f 6f   ElementById('roo
+00a0	74 27 29 20 61 73 20 48  54 4d 4c 45 6c 65 6d 65   t') as HTMLEleme
+00b0	6e 74 29 2e 72 65 6e 64  65 72 28 0a 20 20 3c 52   nt).render(.  <R
+00c0	65 61 63 74 2e 53 74 72  69 63 74 4d 6f 64 65 3e   eact.StrictMode>
+00d0	0a 20 20 20 20 3c 41 70  70 20 2f 3e 0a 20 20 3c   .    <App />.  <
+00e0	2f 52 65 61 63 74 2e 53  74 72 69 63 74 4d 6f 64   /React.StrictMod
+00f0	65 3e 0a 29 0a                                     e>.).
